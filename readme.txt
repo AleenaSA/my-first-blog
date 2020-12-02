@@ -1,1 +1,1 @@
-MY FIRST BLOG - using django
+MY FIRST BLOG - using django (python)
